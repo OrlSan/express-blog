@@ -1,0 +1,24 @@
+{
+  "name": "clase",
+  "version": "1.0.0",
+  "description": "Ejemplos para la primera clase de Express.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Orlando",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.1.4",
+    "bcrypt": "^1.0.1",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.4",
+    "morgan": "^1.7.0",
+    "passport": "^0.3.2",
+    "passport-http-bearer": "^1.0.1",
+    "pug": "^2.0.0-beta6",
+    "randomstring": "^1.1.5"
+  }
+}
